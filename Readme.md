@@ -1,4 +1,4 @@
-# Tailwindcss and Typescript Manage Landing Page
+# Tailwindcss and Typescript Responsive Landing Page
 
 ![Alt text](/images/Screen.png?raw=true)
 
