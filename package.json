@@ -1,0 +1,19 @@
+{
+  "name": "landingpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tailwindcss-build": "tailwindcss -i ./input.css -o ./css/main.css",
+    "typescript-build": "tsc",
+    "tailwindcss-watch": "tailwindcss -i ./input.css -o ./css/main.css --watch",
+    "typescript-watch": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3",
+    "typescript": "^5.1.6"
+  }
+}
